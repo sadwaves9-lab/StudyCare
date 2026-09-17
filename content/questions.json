@@ -1312,6 +1312,24 @@
       "answer": "C",
       "explanation": "Coulomb (C)",
       "createdAt": "2026-09-17T14:55:50Z"
+    },
+    {
+      "id": "q_1789662871299857",
+      "class": "4",
+      "set": "1",
+      "subject": "math",
+      "chapter": "Building with Bricks",
+      "medium": "hindi",
+      "question": "A brick has how many corners?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "C",
+      "explanation": "A brick (cuboid) has 8 corners",
+      "createdAt": "2026-09-17T16:34:31Z"
     }
   ]
 }
