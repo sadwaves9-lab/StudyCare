@@ -1,1 +1,15 @@
-{ "version": 1, "updatedAt": "2026-09-17T00:00:00Z", "tests": [] }
+{
+  "version": 1,
+  "updatedAt": "2026-09-17T00:00:00Z",
+  "tests": [
+    {
+      "id": "t_1789608367411702",
+      "name": "# Test name: Physics Motion Test\r# Subject: physics\r# Date (YYYY-MM-DD): 2026-09-17\r# Time (HH:MM): <aaj se 3 min aage — jaise 06:55>\r# Duration (min): 30\r\r# Push\rstudycare pphysics Motion test",
+      "subject": "physics",
+      "date": "2026-09-17",
+      "time": "6:58",
+      "duration": 30,
+      "notified": false
+    }
+  ]
+}
