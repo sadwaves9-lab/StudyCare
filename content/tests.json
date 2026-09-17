@@ -390,6 +390,51 @@
       "duration": 30,
       "notified": false,
       "createdAt": "2026-09-17T22:56:53Z"
+    },
+    {
+      "id": "t_1789686003024378",
+      "name": "दो चर वाले रैखिक समीकरण युग्म — Chapter Test",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "medium": "hindi",
+      "type": "chapter",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "duration": 30,
+      "notified": false,
+      "createdAt": "2026-09-17T23:00:03Z"
+    },
+    {
+      "id": "t_1789686016279486",
+      "name": "द्विघात समीकरण — Chapter Test",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "medium": "hindi",
+      "type": "chapter",
+      "chapter": "द्विघात समीकरण",
+      "date": "2026-09-21",
+      "time": "10:00",
+      "duration": 30,
+      "notified": false,
+      "createdAt": "2026-09-17T23:00:16Z"
+    },
+    {
+      "id": "t_178968603391857",
+      "name": "समान्तर श्रेढ़ी — Chapter Test",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "medium": "hindi",
+      "type": "chapter",
+      "chapter": "समान्तर श्रेढ़ी",
+      "date": "2026-09-22",
+      "time": "10:00",
+      "duration": 30,
+      "notified": false,
+      "createdAt": "2026-09-17T23:00:33Z"
     }
   ]
 }

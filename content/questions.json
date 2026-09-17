@@ -4264,6 +4264,546 @@
       "answer": "A",
       "explanation": "p(1) = 1 - 3 + 2 = 0",
       "createdAt": "2026-09-17T22:56:51Z"
+    },
+    {
+      "id": "q_17896859921891",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "रैखिक समीकरण युग्म का सामान्य रूप क्या है?",
+      "options": [
+        "a₁x + b₁y + c₁ = 0, a₂x + b₂y + c₂ = 0",
+        "ax² + bx + c = 0",
+        "ax + b = 0",
+        "ax³ + bx² + cx + d = 0"
+      ],
+      "answer": "A",
+      "explanation": "रैखिक युग्म: a₁x + b₁y + c₁ = 0 और a₂x + b₂y + c₂ = 0",
+      "createdAt": "2026-09-17T22:59:52Z"
+    },
+    {
+      "id": "q_17896859927869",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "यदि a₁/a₂ = b₁/b₂ = c₁/c₂ हो तो कितने हल होंगे?",
+      "options": [
+        "कोई हल नहीं",
+        "एक अद्वितीय हल",
+        "अपरिमित हल",
+        "दो हल"
+      ],
+      "answer": "C",
+      "explanation": "यह संपाती रेखाएँ हैं → अपरिमित हल",
+      "createdAt": "2026-09-17T22:59:52Z"
+    },
+    {
+      "id": "q_1789685993479082",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "यदि a₁/a₂ = b₁/b₂ ≠ c₁/c₂ हो तो कितने हल?",
+      "options": [
+        "एक हल",
+        "अपरिमित",
+        "कोई हल नहीं",
+        "दो हल"
+      ],
+      "answer": "C",
+      "explanation": "समांतर रेखाएँ → कोई हल नहीं",
+      "createdAt": "2026-09-17T22:59:53Z"
+    },
+    {
+      "id": "q_1789685994244229",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "यदि a₁/a₂ ≠ b₁/b₂ हो तो कितने हल?",
+      "options": [
+        "एक अद्वितीय हल",
+        "अपरिमित",
+        "कोई नहीं",
+        "दो हल"
+      ],
+      "answer": "A",
+      "explanation": "प्रतिच्छेदी रेखाएँ → एक अद्वितीय हल",
+      "createdAt": "2026-09-17T22:59:54Z"
+    },
+    {
+      "id": "q_1789685995775476",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "x + y = 5 और x - y = 1 का हल क्या है?",
+      "options": [
+        "x=2, y=3",
+        "x=3, y=2",
+        "x=1, y=4",
+        "x=4, y=1"
+      ],
+      "answer": "B",
+      "explanation": "जोड़ने पर: 2x=6 → x=3, y=2",
+      "createdAt": "2026-09-17T22:59:55Z"
+    },
+    {
+      "id": "q_1789685996933114",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "प्रतिस्थापन विधि में क्या करते हैं?",
+      "options": [
+        "एक चर को दूसरे के रूप में लिखते हैं",
+        "दोनों जोड़ते हैं",
+        "गुणा करते हैं",
+        "घटाते हैं"
+      ],
+      "answer": "A",
+      "explanation": "एक समीकरण से एक चर निकालकर दूसरे में रखते हैं",
+      "createdAt": "2026-09-17T22:59:56Z"
+    },
+    {
+      "id": "q_178968599803259",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "2x + 3y = 12 और 2x - 3y = 0 का हल?",
+      "options": [
+        "x=3, y=2",
+        "x=2, y=3",
+        "x=1, y=2",
+        "x=4, y=1"
+      ],
+      "answer": "A",
+      "explanation": "जोड़ने पर: 4x=12 → x=3, फिर y=2",
+      "createdAt": "2026-09-17T22:59:58Z"
+    },
+    {
+      "id": "q_1789685998910219",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "विलोपन विधि में क्या करते हैं?",
+      "options": [
+        "चर को हटाने के लिए समीकरण जोड़ते/घटाते हैं",
+        "ग्राफ बनाते हैं",
+        "प्रतिस्थापित करते हैं",
+        "गुणा करते हैं"
+      ],
+      "answer": "A",
+      "explanation": "एक चर को खत्म करने के लिए जोड़ना/घटाना",
+      "createdAt": "2026-09-17T22:59:58Z"
+    },
+    {
+      "id": "q_1789685999763101",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "x + 2y = 4 और 2x + 4y = 8 में कितने हल?",
+      "options": [
+        "एक",
+        "दो",
+        "अपरिमित",
+        "कोई नहीं"
+      ],
+      "answer": "C",
+      "explanation": "a₁/a₂ = b₁/b₂ = c₁/c₂ = 1/2 → अपरिमित हल",
+      "createdAt": "2026-09-17T22:59:59Z"
+    },
+    {
+      "id": "q_1789686000545495",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "दो चर वाले रैखिक समीकरण युग्म",
+      "medium": "hindi",
+      "question": "x - y = 3 और 3x - 3y = 9 में कितने हल?",
+      "options": [
+        "एक",
+        "दो",
+        "अपरिमित",
+        "कोई नहीं"
+      ],
+      "answer": "C",
+      "explanation": "संपाती रेखाएँ, अपरिमित हल",
+      "createdAt": "2026-09-17T23:00:00Z"
+    },
+    {
+      "id": "q_1789686005099716",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "द्विघात समीकरण का सामान्य रूप?",
+      "options": [
+        "ax² + bx + c = 0, a≠0",
+        "ax + b = 0",
+        "ax³ + bx² = 0",
+        "ax² = 0"
+      ],
+      "answer": "A",
+      "explanation": "द्विघात: ax² + bx + c = 0, जहाँ a ≠ 0",
+      "createdAt": "2026-09-17T23:00:05Z"
+    },
+    {
+      "id": "q_1789686005992589",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "द्विघात सूत्र क्या है?",
+      "options": [
+        "(-b ± √(b²-4ac)) / 2a",
+        "(-b ± √(b²+4ac)) / 2a",
+        "(b ± √(b²-4ac)) / 2a",
+        "-b/a"
+      ],
+      "answer": "A",
+      "explanation": "x = (-b ± √(b²-4ac)) / 2a",
+      "createdAt": "2026-09-17T23:00:05Z"
+    },
+    {
+      "id": "q_178968600764648",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "विविक्तकर D = ?",
+      "options": [
+        "b² - 4ac",
+        "b² + 4ac",
+        "4ac - b²",
+        "-b/a"
+      ],
+      "answer": "A",
+      "explanation": "विविक्तकर D = b² - 4ac",
+      "createdAt": "2026-09-17T23:00:07Z"
+    },
+    {
+      "id": "q_1789686008615286",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "यदि D > 0 हो तो मूल कैसे?",
+      "options": [
+        "दो भिन्न वास्तविक",
+        "दो समान",
+        "कोई नहीं",
+        "एक"
+      ],
+      "answer": "A",
+      "explanation": "D > 0 → दो भिन्न वास्तविक मूल",
+      "createdAt": "2026-09-17T23:00:08Z"
+    },
+    {
+      "id": "q_1789686009537891",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "यदि D = 0 हो तो मूल कैसे?",
+      "options": [
+        "दो समान वास्तविक",
+        "दो भिन्न",
+        "कोई नहीं",
+        "एक"
+      ],
+      "answer": "A",
+      "explanation": "D = 0 → दो समान वास्तविक मूल",
+      "createdAt": "2026-09-17T23:00:09Z"
+    },
+    {
+      "id": "q_1789686010488259",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "यदि D < 0 हो तो?",
+      "options": [
+        "कोई वास्तविक मूल नहीं",
+        "दो भिन्न",
+        "दो समान",
+        "एक"
+      ],
+      "answer": "A",
+      "explanation": "D < 0 → कोई वास्तविक मूल नहीं",
+      "createdAt": "2026-09-17T23:00:10Z"
+    },
+    {
+      "id": "q_1789686011348242",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "x² - 5x + 6 = 0 के मूल?",
+      "options": [
+        "2, 3",
+        "1, 6",
+        "-2, -3",
+        "-1, -6"
+      ],
+      "answer": "A",
+      "explanation": "(x-2)(x-3) = 0 → x = 2, 3",
+      "createdAt": "2026-09-17T23:00:11Z"
+    },
+    {
+      "id": "q_178968601224815",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "x² + 5x + 6 = 0 के मूल?",
+      "options": [
+        "-2, -3",
+        "2, 3",
+        "1, 6",
+        "-1, -6"
+      ],
+      "answer": "A",
+      "explanation": "(x+2)(x+3) = 0 → x = -2, -3",
+      "createdAt": "2026-09-17T23:00:12Z"
+    },
+    {
+      "id": "q_1789686013192212",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "यदि मूल α, β हों तो α+β = ?",
+      "options": [
+        "-b/a",
+        "b/a",
+        "c/a",
+        "-c/a"
+      ],
+      "answer": "A",
+      "explanation": "मूलों का योग = -b/a",
+      "createdAt": "2026-09-17T23:00:13Z"
+    },
+    {
+      "id": "q_178968601428452",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "द्विघात समीकरण",
+      "medium": "hindi",
+      "question": "α·β = ?",
+      "options": [
+        "-b/a",
+        "b/a",
+        "c/a",
+        "-a/c"
+      ],
+      "answer": "C",
+      "explanation": "मूलों का गुणनफल = c/a",
+      "createdAt": "2026-09-17T23:00:14Z"
+    },
+    {
+      "id": "q_1789686022009855",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP का सामान्य रूप?",
+      "options": [
+        "a, a+d, a+2d, a+3d, ...",
+        "a, ar, ar², ar³, ...",
+        "a, a², a³, a⁴",
+        "a, 2a, 3a, 4a"
+      ],
+      "answer": "A",
+      "explanation": "समान्तर श्रेढ़ी: a, a+d, a+2d, ... जहाँ d सार्व अंतर है",
+      "createdAt": "2026-09-17T23:00:22Z"
+    },
+    {
+      "id": "q_1789686023080931",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "n वें पद का सूत्र?",
+      "options": [
+        "aₙ = a + (n-1)d",
+        "aₙ = a + nd",
+        "aₙ = a - (n-1)d",
+        "aₙ = a × d"
+      ],
+      "answer": "A",
+      "explanation": "aₙ = a + (n-1)d",
+      "createdAt": "2026-09-17T23:00:23Z"
+    },
+    {
+      "id": "q_178968602457348",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "n पदों का योग?",
+      "options": [
+        "Sₙ = n/2 [2a + (n-1)d]",
+        "Sₙ = n [a + (n-1)d]",
+        "Sₙ = n/2 (a + d)",
+        "Sₙ = n (a + d)"
+      ],
+      "answer": "A",
+      "explanation": "Sₙ = n/2 [2a + (n-1)d]",
+      "createdAt": "2026-09-17T23:00:24Z"
+    },
+    {
+      "id": "q_1789686025873344",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP: 2, 5, 8, 11, ... का सार्व अंतर?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "8"
+      ],
+      "answer": "B",
+      "explanation": "d = 5 - 2 = 3",
+      "createdAt": "2026-09-17T23:00:25Z"
+    },
+    {
+      "id": "q_1789686026851068",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP: 3, 7, 11, ... का 10वाँ पद?",
+      "options": [
+        "36",
+        "39",
+        "42",
+        "45"
+      ],
+      "answer": "B",
+      "explanation": "a₁₀ = 3 + (10-1)4 = 3 + 36 = 39",
+      "createdAt": "2026-09-17T23:00:26Z"
+    },
+    {
+      "id": "q_1789686027780292",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "प्रथम 10 प्राकृत संख्याओं का योग?",
+      "options": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "answer": "C",
+      "explanation": "S₁₀ = 10×11/2 = 55",
+      "createdAt": "2026-09-17T23:00:27Z"
+    },
+    {
+      "id": "q_1789686028778789",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP: 5, 8, 11, ... का 20वाँ पद?",
+      "options": [
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "answer": "B",
+      "explanation": "a₂₀ = 5 + 19×3 = 5 + 57 = 62",
+      "createdAt": "2026-09-17T23:00:28Z"
+    },
+    {
+      "id": "q_1789686029652449",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "Sₙ में जब अंतिम पद l हो तो?",
+      "options": [
+        "Sₙ = n/2 (a + l)",
+        "Sₙ = n (a + l)",
+        "Sₙ = n/2 (a - l)",
+        "Sₙ = n (a × l)"
+      ],
+      "answer": "A",
+      "explanation": "Sₙ = n/2 (a + l), जब अंतिम पद l हो",
+      "createdAt": "2026-09-17T23:00:29Z"
+    },
+    {
+      "id": "q_1789686030495061",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP: 10, 7, 4, 1, ... का 15वाँ पद?",
+      "options": [
+        "-30",
+        "-32",
+        "-34",
+        "-36"
+      ],
+      "answer": "B",
+      "explanation": "a₁₅ = 10 + 14×(-3) = 10 - 42 = -32",
+      "createdAt": "2026-09-17T23:00:30Z"
+    },
+    {
+      "id": "q_1789686031386235",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "समान्तर श्रेढ़ी",
+      "medium": "hindi",
+      "question": "AP: 1, 3, 5, ..., 99 में कितने पद?",
+      "options": [
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "answer": "C",
+      "explanation": "n = (99-1)/2 + 1 = 50",
+      "createdAt": "2026-09-17T23:00:31Z"
     }
   ]
 }
