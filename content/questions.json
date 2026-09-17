@@ -1276,6 +1276,24 @@
       "answer": "C",
       "explanation": "Coulomb (C) — charge ka SI unit",
       "createdAt": "2026-09-17T14:53:05Z"
+    },
+    {
+      "id": "q_1789656910331545",
+      "class": "12",
+      "set": "1",
+      "subject": "physics",
+      "chapter": "Electric Charges",
+      "medium": "hindi",
+      "question": "Charge ka SI unit kya hai?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Coulomb",
+        "Ohm"
+      ],
+      "answer": "C",
+      "explanation": "Coulomb (C) — charge ka SI unit",
+      "createdAt": "2026-09-17T14:55:10Z"
     }
   ]
 }
