@@ -1258,6 +1258,24 @@
       "answer": "C",
       "explanation": "CH₄ has tetrahedral sp³ carbon",
       "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789656785276782",
+      "class": "12",
+      "set": "1",
+      "subject": "physics",
+      "chapter": "Electric Charges",
+      "medium": "hindi",
+      "question": "Charge ka SI unit kya hai?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Coulomb",
+        "Ohm"
+      ],
+      "answer": "C",
+      "explanation": "Coulomb (C) — charge ka SI unit",
+      "createdAt": "2026-09-17T14:53:05Z"
     }
   ]
 }
