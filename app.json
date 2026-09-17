@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "StudyCare",
+    "slug": "studycare",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "studycare",
+    "icon": "./src/assets/images/icon.png",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F0F1E"
+    },
+    "android": {
+      "package": "com.sadwaves9.studycare",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "backgroundColor": "#6C5CE7"
+      },
+      "permissions": [
+        "NOTIFICATIONS"
+      ],
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sadwaves9.studycare",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-notifications",
+      [
+        "expo-notifications",
+        {
+          "icon": "./src/assets/images/icon.png",
+          "color": "#6C5CE7"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4edb3624-57d2-4535-bc27-7d64ecdf61f5"
+      }
+    },
+    "owner": "imussain",
+    "runtimeVersion": "2.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/4edb3624-57d2-4535-bc27-7d64ecdf61f5",
+      "fallbackToCacheTimeout": 0,
+      "checkAutomatically": "ON_LOAD",
+      "enabled": true,
+      "requestHeaders": {
+        "expo-channel-name": "preview"
+      }
+    },
+    "jsEngine": "jsc"
+  }
+}
