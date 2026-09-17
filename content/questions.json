@@ -1330,6 +1330,96 @@
       "answer": "C",
       "explanation": "A brick (cuboid) has 8 corners",
       "createdAt": "2026-09-17T16:34:31Z"
+    },
+    {
+      "id": "q_1789669265506915",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "यूक्लिड विभाजन प्रमेयिका क्या है?",
+      "options": [
+        "a = bq + r, जहाँ 0 ≤ r < b",
+        "a = bq - r, जहाँ r ≥ 0",
+        "a = b + q + r",
+        "a = b × q × r"
+      ],
+      "answer": "A",
+      "explanation": "यूक्लिड विभाजन प्रमेयिका: a = bq + r, जहाँ 0 ≤ r < b",
+      "createdAt": "2026-09-17T18:21:05Z"
+    },
+    {
+      "id": "q_1789669266233761",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "√2 कैसी संख्या है?",
+      "options": [
+        "परिमेय",
+        "अपरिमेय",
+        "पूर्णांक",
+        "प्राकृत"
+      ],
+      "answer": "B",
+      "explanation": "√2 अपरिमेय संख्या है (अपरिमेय संख्या की सिद्धि)",
+      "createdAt": "2026-09-17T18:21:06Z"
+    },
+    {
+      "id": "q_1789669266892764",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "18 और 24 का HCF क्या होगा?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "C",
+      "explanation": "18 = 2×3², 24 = 2³×3. HCF = 2×3 = 6",
+      "createdAt": "2026-09-17T18:21:06Z"
+    },
+    {
+      "id": "q_1789669267628339",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "12 और 18 का LCM क्या है?",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "54"
+      ],
+      "answer": "B",
+      "explanation": "12 = 2²×3, 18 = 2×3². LCM = 2²×3² = 36",
+      "createdAt": "2026-09-17T18:21:07Z"
+    },
+    {
+      "id": "q_1789669268354979",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "एक अभाज्य संख्या के कितने गुणनखंड होते हैं?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "असीम"
+      ],
+      "answer": "B",
+      "explanation": "अभाज्य संख्या के केवल 2 गुणनखंड: 1 और स्वयं",
+      "createdAt": "2026-09-17T18:21:08Z"
     }
   ]
 }
