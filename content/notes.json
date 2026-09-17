@@ -1,1 +1,38 @@
-{ "version": 1, "updatedAt": "2026-09-17T00:00:00Z", "notes": [] }
+{
+  "version": 1,
+  "updatedAt": "2026-09-17T00:00:00Z",
+  "notes": [
+    {
+      "id": "n_1789608010559364",
+      "subject": "studycare an <<EOF",
+      "chapter": "physics",
+      "title": "Motion",
+      "body": "Motion kya hai\nMotion = position me change. Speed = distance/time. Scalar quantity hai.\nEOF\n\nstudycare an <<EOF\nphysics\nForce\nForce kya hai\nForce = push or pull. Unit = Newton.\nEOF\n\nstudycare an <<EOF\nchemistry\nAtom\nAtom kya hai\nAtom kisi element ka sabse chhota kan hai.",
+      "createdAt": "2026-09-17T01:20:10Z"
+    },
+    {
+      "id": "n_1789608019744979",
+      "subject": "physics",
+      "chapter": "Motion",
+      "title": "Motion kya hai",
+      "body": "Motion = position me change. Speed = distance/time. Scalar quantity hai.",
+      "createdAt": "2026-09-17T01:20:19Z"
+    },
+    {
+      "id": "n_1789608019839205",
+      "subject": "physics",
+      "chapter": "Force",
+      "title": "Force kya hai",
+      "body": "Force = push or pull. Unit = Newton.",
+      "createdAt": "2026-09-17T01:20:19Z"
+    },
+    {
+      "id": "n_1789608019975925",
+      "subject": "chemistry",
+      "chapter": "Atom",
+      "title": "Atom kya hai",
+      "body": "Atom kisi element ka sabse chhota kan hai.",
+      "createdAt": "2026-09-17T01:20:19Z"
+    }
+  ]
+}
