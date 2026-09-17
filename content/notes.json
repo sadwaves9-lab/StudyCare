@@ -172,6 +172,97 @@
       ],
       "body": "## DNA Structure\n\n**Watson & Crick** ne 1953 me propose kiya.\n\n### Components\n1. **Sugar** - Deoxyribose\n2. **Phosphate** group\n3. **Nitrogenous bases**:\n   - Purines: **Adenine (A)**, **Guanine (G)**\n   - Pyrimidines: **Cytosine (C)**, **Thymine (T)**\n\n### Base Pairing Rules\n- **A pairs with T** (2 H-bonds)\n- **G pairs with C** (3 H-bonds)\n\n### Structure\n- **Double helix** (right-handed)\n- **Antiparallel** strands\n- Width: **2 nm**\n- Pitch: **3.4 nm** (10 bp per turn)\n\n__Important__: DNA replication is **semiconservative**.",
       "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_178964658622661_11",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "title": "Multiplication Tables",
+      "keyTerms": [
+        "Product",
+        "Factor",
+        "Multiplier"
+      ],
+      "body": "## Multiplication Basics\n**Multiplication** is repeated addition.\n**3 × 4** = **12**\n- **Multiplicand**: 3\n- **Multiplier**: 4\n- **Product**: 12\n\n__Tip__: Roz practice karo.",
+      "createdAt": "2026-09-17T12:03:06Z"
+    },
+    {
+      "id": "n_1789646586290695_12",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "title": "Speed vs Velocity",
+      "keyTerms": [
+        "Speed",
+        "Velocity",
+        "Scalar",
+        "Vector"
+      ],
+      "body": "## Speed\n**Speed** = distance / time\n- **Scalar** quantity\n- SI unit: **m/s**\n\n## Velocity\n**Velocity** = displacement / time\n- **Vector** quantity\n- Direction hoti hai\n\n__Important__: Velocity me direction matter karta hai.",
+      "createdAt": "2026-09-17T12:03:06Z"
+    },
+    {
+      "id": "n_1789646586358475_13",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Chemical Reactions",
+      "title": "Types of Reactions",
+      "keyTerms": [
+        "Combination",
+        "Decomposition",
+        "Redox"
+      ],
+      "body": "## 5 Types\n### 1. **Combination**\nA + B → AB\n\n### 2. **Decomposition**\nAB → A + B\n\n### 3. **Displacement**\nA + BC → AC + B\n\n__Important__: Equations always balance karo.",
+      "createdAt": "2026-09-17T12:03:06Z"
+    },
+    {
+      "id": "n_1789646586425271_14",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Trigonometry",
+      "title": "Trigonometry Basics",
+      "keyTerms": [
+        "Sine",
+        "Cosine",
+        "Tangent"
+      ],
+      "body": "## Ratios\n**sin θ** = Opposite / Hypotenuse\n**cos θ** = Adjacent / Hypotenuse\n**tan θ** = Opposite / Adjacent\n\n## Standard Values\n- sin 30° = **1/2**\n- cos 60° = **1/2**\n- tan 45° = **1**\n\n__Important__: sin² θ + cos² θ = 1",
+      "createdAt": "2026-09-17T12:03:06Z"
+    },
+    {
+      "id": "n_1789646586490371_15",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Electrostatics",
+      "title": "Coulomb Law",
+      "keyTerms": [
+        "Charge",
+        "Force",
+        "Distance"
+      ],
+      "body": "## Coulomb's Law\n**F = k q₁ q₂ / r²**\n- **F** = Force (Newton)\n- **k** = 9 × 10⁹ N·m²/C²\n- **r** = Distance (meter)\n\n__Force__ is inversely proportional to square of distance.\n\n**Remember**: Same charge → repulsion.",
+      "createdAt": "2026-09-17T12:03:06Z"
+    },
+    {
+      "id": "n_1789646586556628_16",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Solutions",
+      "title": "Concentration Terms",
+      "keyTerms": [
+        "Molarity",
+        "Molality",
+        "Normality"
+      ],
+      "body": "## Concentration\n### 1. **Molarity (M)**\nmol / L\n\n### 2. **Molality (m)**\nmol / kg\n\n### 3. **Normality (N)**\ngram-equivalent / L\n\n__Molality__ temperature-independent hai.",
+      "createdAt": "2026-09-17T12:03:06Z"
     }
   ]
 }
