@@ -170,6 +170,1094 @@
       "answer": "A",
       "explanation": "h = 6.626×10⁻³⁴ J·s",
       "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q_1789646298891764_10",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "question": "Speed ka formula kya hai?",
+      "options": [
+        "Distance / Time",
+        "Time / Distance",
+        "Distance × Time",
+        "Distance + Time"
+      ],
+      "answer": "A",
+      "explanation": "Speed = distance divided by time",
+      "createdAt": "2026-09-17T11:58:18Z"
+    },
+    {
+      "id": "q_1789646298932032_11",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Quadratic Equations",
+      "question": "x² - 5x + 6 = 0 ke roots?",
+      "options": [
+        "1, 6",
+        "2, 3",
+        "-2, -3",
+        "1, 5"
+      ],
+      "answer": "B",
+      "explanation": "(x-2)(x-3)=0, so x=2 or x=3",
+      "createdAt": "2026-09-17T11:58:18Z"
+    },
+    {
+      "id": "q_1789646470824995_12",
+      "class": "1",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Numbers",
+      "question": "2 + 3 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "B",
+      "explanation": "2 plus 3 equals 5",
+      "createdAt": "2026-09-17T12:01:10Z"
+    },
+    {
+      "id": "q_1789646470867451_13",
+      "class": "1",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Numbers",
+      "question": "10 - 4 = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "B",
+      "explanation": "10 minus 4 equals 6",
+      "createdAt": "2026-09-17T12:01:10Z"
+    },
+    {
+      "id": "q_1789646470902533_14",
+      "class": "1",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Numbers",
+      "question": "5 × 2 = ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "answer": "C",
+      "explanation": "5 times 2 equals 10",
+      "createdAt": "2026-09-17T12:01:10Z"
+    },
+    {
+      "id": "q_1789646470936577_15",
+      "class": "1",
+      "set": "A",
+      "subject": "english",
+      "chapter": "Alphabet",
+      "question": "Which is the first letter of English alphabet?",
+      "options": [
+        "A",
+        "B",
+        "Z",
+        "M"
+      ],
+      "answer": "A",
+      "explanation": "A is the first letter",
+      "createdAt": "2026-09-17T12:01:10Z"
+    },
+    {
+      "id": "q_178964647096573_16",
+      "class": "1",
+      "set": "A",
+      "subject": "english",
+      "chapter": "Alphabet",
+      "question": "Which letter comes after C?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "answer": "C",
+      "explanation": "A, B, C, D",
+      "createdAt": "2026-09-17T12:01:10Z"
+    },
+    {
+      "id": "q_1789646471004147_17",
+      "class": "1",
+      "set": "A",
+      "subject": "evs",
+      "chapter": "My Body",
+      "question": "How many eyes do we have?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "B",
+      "explanation": "Humans have 2 eyes",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471048868_18",
+      "class": "2",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Addition",
+      "question": "15 + 8 = ?",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "answer": "C",
+      "explanation": "15 + 8 = 23",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471093872_19",
+      "class": "2",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Subtraction",
+      "question": "20 - 7 = ?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": "C",
+      "explanation": "20 - 7 = 13",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471143492_20",
+      "class": "2",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "question": "6 × 3 = ?",
+      "options": [
+        "15",
+        "18",
+        "21",
+        "24"
+      ],
+      "answer": "B",
+      "explanation": "6 × 3 = 18",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471192856_21",
+      "class": "2",
+      "set": "A",
+      "subject": "english",
+      "chapter": "Words",
+      "question": "Which is a fruit?",
+      "options": [
+        "Car",
+        "Apple",
+        "Table",
+        "Pen"
+      ],
+      "answer": "B",
+      "explanation": "Apple is a fruit",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471233443_22",
+      "class": "3",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "question": "12 × 5 = ?",
+      "options": [
+        "55",
+        "60",
+        "65",
+        "70"
+      ],
+      "answer": "B",
+      "explanation": "12 × 5 = 60",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471277997_23",
+      "class": "3",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Division",
+      "question": "24 ÷ 6 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "B",
+      "explanation": "24 ÷ 6 = 4",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471321916_24",
+      "class": "3",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Numbers",
+      "question": "What is 100 + 250?",
+      "options": [
+        "300",
+        "350",
+        "400",
+        "450"
+      ],
+      "answer": "B",
+      "explanation": "100 + 250 = 350",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471368446_25",
+      "class": "3",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Plants",
+      "question": "Which part of plant makes food?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": "C",
+      "explanation": "Leaves make food via photosynthesis",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471411431_26",
+      "class": "4",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Fractions",
+      "question": "1/2 + 1/2 = ?",
+      "options": [
+        "1/4",
+        "1/2",
+        "1",
+        "2"
+      ],
+      "answer": "C",
+      "explanation": "1/2 + 1/2 = 1",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_178964647145353_27",
+      "class": "4",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Decimals",
+      "question": "0.5 + 0.5 = ?",
+      "options": [
+        "0.1",
+        "1",
+        "10",
+        "0.10"
+      ],
+      "answer": "B",
+      "explanation": "0.5 + 0.5 = 1",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471496249_28",
+      "class": "4",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Living Things",
+      "question": "Which one is a living thing?",
+      "options": [
+        "Rock",
+        "Tree",
+        "Water",
+        "Air"
+      ],
+      "answer": "B",
+      "explanation": "Tree is a living thing",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471539227_29",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "question": "12 × 8 = ?",
+      "options": [
+        "86",
+        "92",
+        "96",
+        "104"
+      ],
+      "answer": "C",
+      "explanation": "12 × 8 = 96",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471584322_30",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Percentage",
+      "question": "50% of 200 = ?",
+      "options": [
+        "50",
+        "75",
+        "100",
+        "150"
+      ],
+      "answer": "C",
+      "explanation": "50/100 × 200 = 100",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471632497_31",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "LCM",
+      "question": "LCM of 4 and 6?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "24"
+      ],
+      "answer": "C",
+      "explanation": "LCM of 4, 6 = 12",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471676545_32",
+      "class": "5",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Solar System",
+      "question": "How many planets in Solar System?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "B",
+      "explanation": "8 planets (Pluto removed 2006)",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471722541_33",
+      "class": "5",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Human Body",
+      "question": "Which organ pumps blood?",
+      "options": [
+        "Liver",
+        "Lung",
+        "Heart",
+        "Kidney"
+      ],
+      "answer": "C",
+      "explanation": "Heart pumps blood",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471770832_34",
+      "class": "6",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Integers",
+      "question": "(-5) + 8 = ?",
+      "options": [
+        "-3",
+        "3",
+        "13",
+        "-13"
+      ],
+      "answer": "B",
+      "explanation": "-5 + 8 = 3",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471814557_35",
+      "class": "6",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Fractions",
+      "question": "3/4 of 20 = ?",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "B",
+      "explanation": "3/4 × 20 = 15",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471861239_36",
+      "class": "6",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Food",
+      "question": "Vitamin C deficiency causes?",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Anaemia"
+      ],
+      "answer": "B",
+      "explanation": "Vitamin C deficiency = Scurvy",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471910992_37",
+      "class": "6",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Matter",
+      "question": "Which state of matter has definite shape?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answer": "A",
+      "explanation": "Solid has definite shape",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646471958328_38",
+      "class": "7",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Algebra",
+      "question": "If x + 5 = 12, then x = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "C",
+      "explanation": "x = 12 - 5 = 7",
+      "createdAt": "2026-09-17T12:01:11Z"
+    },
+    {
+      "id": "q_1789646472007434_39",
+      "class": "7",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Ratio",
+      "question": "Ratio of 15 and 25 in simplest form?",
+      "options": [
+        "1:2",
+        "3:5",
+        "5:3",
+        "2:1"
+      ],
+      "answer": "B",
+      "explanation": "15:25 = 3:5",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_178964647205341_40",
+      "class": "7",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Nutrition",
+      "question": "Which is a rich source of protein?",
+      "options": [
+        "Rice",
+        "Dal",
+        "Oil",
+        "Sugar"
+      ],
+      "answer": "B",
+      "explanation": "Dal (pulses) rich in protein",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472099697_41",
+      "class": "8",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Algebra",
+      "question": "(a+b)² = ?",
+      "options": [
+        "a² + b²",
+        "a² + 2ab + b²",
+        "a² - b²",
+        "2ab"
+      ],
+      "answer": "B",
+      "explanation": "(a+b)² = a² + 2ab + b²",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472145149_42",
+      "class": "8",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Mensuration",
+      "question": "Area of circle with radius 7 cm? (π = 22/7)",
+      "options": [
+        "154 cm²",
+        "144 cm²",
+        "164 cm²",
+        "174 cm²"
+      ],
+      "answer": "A",
+      "explanation": "πr² = 22/7 × 49 = 154",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472191293_43",
+      "class": "8",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Force",
+      "question": "SI unit of force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "B",
+      "explanation": "Force SI unit = Newton (N)",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472232072_44",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "question": "Speed ka formula?",
+      "options": [
+        "v = d/t",
+        "v = t/d",
+        "v = d × t",
+        "v = d + t"
+      ],
+      "answer": "A",
+      "explanation": "Speed = distance / time",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472281893_45",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "question": "SI unit of acceleration?",
+      "options": [
+        "m/s",
+        "m/s²",
+        "m/s³",
+        "m"
+      ],
+      "answer": "B",
+      "explanation": "Acceleration = m/s²",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472329278_46",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Laws of Motion",
+      "question": "Newton ka first law?",
+      "options": [
+        "F = ma",
+        "Action-reaction",
+        "Inertia ka law",
+        "Gravitation"
+      ],
+      "answer": "C",
+      "explanation": "First law = Law of Inertia",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_178964647237578_47",
+      "class": "9",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial 5x³ + 2x + 1?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "Highest power = 3",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472421844_48",
+      "class": "9",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Number Systems",
+      "question": "√16 = ?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "B",
+      "explanation": "4 × 4 = 16",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472465799_49",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Quadratic Equations",
+      "question": "x² - 5x + 6 = 0 ke roots?",
+      "options": [
+        "1, 6",
+        "2, 3",
+        "-2, -3",
+        "1, 5"
+      ],
+      "answer": "B",
+      "explanation": "(x-2)(x-3)=0 → x=2 or x=3",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472514969_50",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Trigonometry",
+      "question": "sin 30° = ?",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "answer": "A",
+      "explanation": "sin 30° = 1/2",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472565285_51",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Trigonometry",
+      "question": "cos 60° = ?",
+      "options": [
+        "1/2",
+        "√3/2",
+        "1",
+        "0"
+      ],
+      "answer": "A",
+      "explanation": "cos 60° = 1/2",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472617897_52",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Chemical Reactions",
+      "question": "Which is a decomposition reaction?",
+      "options": [
+        "2H₂ + O₂ → 2H₂O",
+        "CaCO₃ → CaO + CO₂",
+        "Zn + CuSO₄ → ZnSO₄ + Cu",
+        "NaOH + HCl → NaCl + H₂O"
+      ],
+      "answer": "B",
+      "explanation": "One compound breaks into simpler substances",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472670281_53",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Light",
+      "question": "Refractive index of water?",
+      "options": [
+        "1.00",
+        "1.33",
+        "1.50",
+        "2.42"
+      ],
+      "answer": "B",
+      "explanation": "Water refractive index = 1.33",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472720774_54",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Electricity",
+      "question": "Ohm's law?",
+      "options": [
+        "V = IR",
+        "V = I/R",
+        "V = R/I",
+        "V = I²R"
+      ],
+      "answer": "A",
+      "explanation": "V = IR (Voltage = Current × Resistance)",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472773445_55",
+      "class": "11",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Laws of Motion",
+      "question": "Newton's second law formula?",
+      "options": [
+        "F = ma",
+        "F = mv",
+        "F = m/a",
+        "F = a/m"
+      ],
+      "answer": "A",
+      "explanation": "F = mass × acceleration",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472822337_56",
+      "class": "11",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Units and Measurements",
+      "question": "SI unit of work?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "answer": "B",
+      "explanation": "Work SI unit = Joule (J)",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472870689_57",
+      "class": "11",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Gravitation",
+      "question": "Value of g on Earth?",
+      "options": [
+        "8.9 m/s²",
+        "9.8 m/s²",
+        "10.8 m/s²",
+        "11.2 m/s²"
+      ],
+      "answer": "B",
+      "explanation": "g = 9.8 m/s²",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646472925366_58",
+      "class": "11",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Atomic Structure",
+      "question": "Atomic number of Carbon?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "B",
+      "explanation": "Carbon Z = 6",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_178964647297268_59",
+      "class": "11",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Periodic Table",
+      "question": "Which is an alkali metal?",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Iron",
+        "Copper"
+      ],
+      "answer": "A",
+      "explanation": "Group 1 metals are alkali metals",
+      "createdAt": "2026-09-17T12:01:12Z"
+    },
+    {
+      "id": "q_1789646473023043_60",
+      "class": "11",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Chemical Bonding",
+      "question": "NaCl is held by which bond?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "answer": "B",
+      "explanation": "Na⁺ and Cl⁻ form ionic bond",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473068853_61",
+      "class": "11",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Sets",
+      "question": "If A = {1,2,3} and B = {3,4,5}, then A ∩ B = ?",
+      "options": [
+        "{1,2}",
+        "{4,5}",
+        "{3}",
+        "{1,2,3,4,5}"
+      ],
+      "answer": "C",
+      "explanation": "Intersection contains common elements",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473120061_62",
+      "class": "11",
+      "set": "A",
+      "subject": "biology",
+      "chapter": "Cell",
+      "question": "Powerhouse of cell?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi"
+      ],
+      "answer": "C",
+      "explanation": "Mitochondria = powerhouse",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473165383_63",
+      "class": "11",
+      "set": "A",
+      "subject": "biology",
+      "chapter": "Photosynthesis",
+      "question": "Which pigment is used in photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Melanin",
+        "Hemoglobin",
+        "Carotene"
+      ],
+      "answer": "A",
+      "explanation": "Chlorophyll absorbs light",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473213781_64",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Electrostatics",
+      "question": "Coulomb law formula?",
+      "options": [
+        "F = kq₁q₂/r²",
+        "F = kq₁q₂/r",
+        "F = kq/r",
+        "F = kr"
+      ],
+      "answer": "A",
+      "explanation": "Coulomb: F = kq₁q₂/r²",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473266112_65",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Current Electricity",
+      "question": "SI unit of resistance?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": "C",
+      "explanation": "Resistance unit = Ohm (Ω)",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473316435_66",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Optics",
+      "question": "Focal length of plane mirror?",
+      "options": [
+        "0",
+        "Infinity",
+        "1",
+        "-1"
+      ],
+      "answer": "B",
+      "explanation": "Plane mirror focal length = infinity",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473368029_67",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Solutions",
+      "question": "Molarity ka unit?",
+      "options": [
+        "mol/L",
+        "g/L",
+        "mol/kg",
+        "%"
+      ],
+      "answer": "A",
+      "explanation": "Molarity = mol / liter",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473420709_68",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Electrochemistry",
+      "question": "Faraday constant value?",
+      "options": [
+        "96500 C/mol",
+        "9650 C/mol",
+        "965 C/mol",
+        "96.5 C/mol"
+      ],
+      "answer": "A",
+      "explanation": "F = 96500 C/mol",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473472202_69",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Coordination Compounds",
+      "question": "Coordination number of central metal in [Cu(NH₃)₄]²⁺?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": "C",
+      "explanation": "4 NH₃ ligands → coordination 4",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473528212_70",
+      "class": "12",
+      "set": "A",
+      "subject": "biology",
+      "chapter": "Genetics",
+      "question": "DNA structure proposed by?",
+      "options": [
+        "Darwin",
+        "Mendel",
+        "Watson and Crick",
+        "Pasteur"
+      ],
+      "answer": "C",
+      "explanation": "Watson & Crick 1953",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473577346_71",
+      "class": "12",
+      "set": "A",
+      "subject": "biology",
+      "chapter": "Evolution",
+      "question": "Father of Evolution?",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Hugo"
+      ],
+      "answer": "A",
+      "explanation": "Charles Darwin",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473625362_72",
+      "class": "bsc",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Quantum Mechanics",
+      "question": "Planck's constant value?",
+      "options": [
+        "6.626 × 10⁻³⁴ J·s",
+        "3 × 10⁸",
+        "9.8",
+        "1.6 × 10⁻¹⁹"
+      ],
+      "answer": "A",
+      "explanation": "h = 6.626 × 10⁻³⁴ J·s",
+      "createdAt": "2026-09-17T12:01:13Z"
+    },
+    {
+      "id": "q_1789646473675754_73",
+      "class": "bsc",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Organic Chemistry",
+      "question": "Hybridization of carbon in methane?",
+      "options": [
+        "sp",
+        "sp²",
+        "sp³",
+        "sp³d"
+      ],
+      "answer": "C",
+      "explanation": "CH₄ has tetrahedral sp³ carbon",
+      "createdAt": "2026-09-17T12:01:13Z"
     }
   ]
 }

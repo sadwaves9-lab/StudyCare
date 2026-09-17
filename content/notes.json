@@ -46,6 +46,132 @@
       ],
       "body": "## Coulomb Law\n**F = k q₁ q₂ / r²**\n\n- **F** = Force (Newton)\n- **k** = 9 × 10⁹ N·m²/C²\n- **q₁, q₂** = Charges (Coulomb)\n- **r** = Distance (meter)\n\n### Properties\n__Force__ is __inversely proportional__ to **square of distance**.\n\n**Remember**: Same charge → repulsion, Opposite → attraction.\n",
       "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "n_1789646496259526_3",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "title": "Multiplication Tables",
+      "keyTerms": [
+        "Product",
+        "Factor",
+        "Multiplier"
+      ],
+      "body": "## Multiplication Basics\n**Multiplication** is repeated addition.\n\n**3 × 4** = **12** (3 added 4 times)\n\n- **Multiplicand**: 3\n- **Multiplier**: 4\n- **Product**: 12\n\n## Tables 1-10\n**2 × 1 = 2**\n**2 × 2 = 4**\n**2 × 3 = 6**\n**2 × 4 = 8**\n**2 × 5 = 10**\n\n__Tip__: Roz practice karo, 5 min me yaad ho jaayenge.",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496332206_4",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "title": "Speed vs Velocity",
+      "keyTerms": [
+        "Speed",
+        "Velocity",
+        "Scalar",
+        "Vector"
+      ],
+      "body": "## Speed\n**Speed** = distance / time\n\n- **Scalar** quantity\n- SI unit: **m/s**\n- Direction nahi hoti\n\n## Velocity\n**Velocity** = displacement / time\n\n- **Vector** quantity\n- SI unit: **m/s**\n- Direction hoti hai\n\n__Important__: Velocity me direction matter karta hai, speed me nahi.\n\n**Example**:\n- Car moving 60 km/h → speed\n- Car moving 60 km/h North → velocity",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496400736_5",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Chemical Reactions",
+      "title": "Types of Reactions",
+      "keyTerms": [
+        "Combination",
+        "Decomposition",
+        "Displacement",
+        "Redox"
+      ],
+      "body": "## 5 Types of Reactions\n\n### 1. **Combination**\nA + B → AB\nExample: 2H₂ + O₂ → 2H₂O\n\n### 2. **Decomposition**\nAB → A + B\nExample: CaCO₃ → CaO + CO₂\n\n### 3. **Displacement**\nA + BC → AC + B\nExample: Zn + CuSO₄ → ZnSO₄ + Cu\n\n### 4. **Double Displacement**\nAB + CD → AD + CB\nExample: NaOH + HCl → NaCl + H₂O\n\n### 5. **Redox**\n__Oxidation-Reduction__ reactions\n\n**Remember**: Equations always balance karo.",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_178964649647076_6",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Trigonometry",
+      "title": "Trigonometric Ratios",
+      "keyTerms": [
+        "Sine",
+        "Cosine",
+        "Tangent",
+        "Hypotenuse"
+      ],
+      "body": "## Right Triangle Ratios\nFor angle θ in right triangle:\n\n**sin θ** = Opposite / Hypotenuse\n**cos θ** = Adjacent / Hypotenuse\n**tan θ** = Opposite / Adjacent\n\n## Standard Values\n\\| Angle \\| sin \\| cos \\| tan \\|\n\\|-------\\|-----\\|-----\\|-----\\|\n\\| 0°    \\| 0   \\| 1   \\| 0   \\|\n\\| 30°   \\| 1/2 \\| √3/2\\| 1/√3\\|\n\\| 45°   \\| 1/√2\\| 1/√2\\| 1   \\|\n\\| 60°   \\| √3/2\\| 1/2 \\| √3  \\|\n\\| 90°   \\| 1   \\| 0   \\| ∞   \\|\n\n__Important__: sin² θ + cos² θ = 1",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496546847_7",
+      "class": "11",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Laws of Motion",
+      "title": "Newton's Three Laws",
+      "keyTerms": [
+        "Inertia",
+        "Force",
+        "Momentum",
+        "Action-Reaction"
+      ],
+      "body": "## Newton's First Law (Inertia)\n**Ek object apni state me rehta hai** jab tak external force na lage.\n\n- Rest → rest\n- Motion → motion\n\n## Newton's Second Law\n**F = ma**\n\n- **F** = Force (N)\n- **m** = Mass (kg)\n- **a** = Acceleration (m/s²)\n\n## Newton's Third Law\n**Har action ka equal and opposite reaction hota hai.**\n\n__Example__: Rocket forward jata hai, gas backward push karti hai.\n\n**Remember**: All three laws sirf inertial frame me valid hain.",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496624026_8",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Electrostatics",
+      "title": "Coulomb Law",
+      "keyTerms": [
+        "Charge",
+        "Force",
+        "Permittivity"
+      ],
+      "body": "## Coulomb's Law\n**F = k q₁ q₂ / r²**\n\n- **F** = Force (Newton)\n- **k** = 9 × 10⁹ N·m²/C²\n- **q₁, q₂** = Charges (Coulomb)\n- **r** = Distance (meter)\n\n### Properties\n__Force__ is **inversely proportional** to square of distance.\n\n**Force direction**:\n- Same charges → **repulsion**\n- Opposite charges → **attraction**\n\n**Note**: Sirf point charges ke liye valid hai.",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496699849_9",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Solutions",
+      "title": "Concentration Terms",
+      "keyTerms": [
+        "Molarity",
+        "Molality",
+        "Mole Fraction",
+        "Normality"
+      ],
+      "body": "## Concentration Terms\n\n### 1. **Molarity (M)**\nMoles of solute / Liter of solution\n**Unit**: mol/L\n\n### 2. **Molality (m)**\nMoles of solute / kg of solvent\n**Unit**: mol/kg\n\n### 3. **Normality (N)**\nGram equivalents / Liter of solution\n**Unit**: N\n\n### 4. **Mole Fraction (x)**\nMoles of component / Total moles\n__Unitless__ hai\n\n## Relation\nMolarity depends on temperature (volume changes)\n__Molality__ temperature-dependent nahi hai.\n\n**Remember**: Molarity = Moles / Volume(L)",
+      "createdAt": "2026-09-17T12:01:36Z"
+    },
+    {
+      "id": "n_1789646496774381_10",
+      "class": "12",
+      "set": "A",
+      "subject": "biology",
+      "chapter": "Genetics",
+      "title": "DNA Structure",
+      "keyTerms": [
+        "Double Helix",
+        "Nucleotide",
+        "Base Pair",
+        "Watson-Crick"
+      ],
+      "body": "## DNA Structure\n\n**Watson & Crick** ne 1953 me propose kiya.\n\n### Components\n1. **Sugar** - Deoxyribose\n2. **Phosphate** group\n3. **Nitrogenous bases**:\n   - Purines: **Adenine (A)**, **Guanine (G)**\n   - Pyrimidines: **Cytosine (C)**, **Thymine (T)**\n\n### Base Pairing Rules\n- **A pairs with T** (2 H-bonds)\n- **G pairs with C** (3 H-bonds)\n\n### Structure\n- **Double helix** (right-handed)\n- **Antiparallel** strands\n- Width: **2 nm**\n- Pitch: **3.4 nm** (10 bp per turn)\n\n__Important__: DNA replication is **semiconservative**.",
+      "createdAt": "2026-09-17T12:01:36Z"
     }
   ]
 }
