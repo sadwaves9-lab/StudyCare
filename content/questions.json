@@ -1,5 +1,175 @@
 {
-  "version": 1,
-  "updatedAt": "2026-09-17T00:00:00Z",
-  "questions": []
+  "version": 2,
+  "questions": [
+    {
+      "id": "q1",
+      "class": "1",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Numbers",
+      "question": "2 + 3 = ?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "B",
+      "explanation": "2 plus 3 equals 5",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q2",
+      "class": "1",
+      "set": "A",
+      "subject": "english",
+      "chapter": "Alphabet",
+      "question": "Which is the first letter?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "A is the first letter",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q3",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "question": "12 × 8 = ?",
+      "options": [
+        "86",
+        "92",
+        "96",
+        "104"
+      ],
+      "answer": "C",
+      "explanation": "12 × 8 = 96",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q4",
+      "class": "9",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Motion",
+      "question": "Speed ka formula?",
+      "options": [
+        "v=d/t",
+        "v=t/d",
+        "v=d×t",
+        "v=d+t"
+      ],
+      "answer": "A",
+      "explanation": "Speed = distance / time",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q5",
+      "class": "10",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Quadratic Equations",
+      "question": "x² - 5x + 6 = 0 ke roots?",
+      "options": [
+        "1,6",
+        "2,3",
+        "-2,-3",
+        "1,5"
+      ],
+      "answer": "B",
+      "explanation": "(x-2)(x-3)=0, so x=2 or x=3",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q6",
+      "class": "11",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Laws of Motion",
+      "question": "Newton second law formula?",
+      "options": [
+        "F=ma",
+        "F=mv",
+        "F=m/a",
+        "F=am"
+      ],
+      "answer": "A",
+      "explanation": "F = m × a",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q7",
+      "class": "11",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Atomic Structure",
+      "question": "Atom ka center?",
+      "options": [
+        "Electron",
+        "Nucleus",
+        "Proton",
+        "Neutron"
+      ],
+      "answer": "B",
+      "explanation": "Nucleus at center",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q8",
+      "class": "12",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Electrostatics",
+      "question": "Coulomb law formula?",
+      "options": [
+        "F=kq1q2/r²",
+        "F=kq1q2/r",
+        "F=kq/r",
+        "F=kr"
+      ],
+      "answer": "A",
+      "explanation": "Coulomb: F = k q1 q2 / r²",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q9",
+      "class": "12",
+      "set": "A",
+      "subject": "chemistry",
+      "chapter": "Solutions",
+      "question": "Molarity unit?",
+      "options": [
+        "mol/L",
+        "g/L",
+        "mol/kg",
+        "%"
+      ],
+      "answer": "A",
+      "explanation": "Molarity = mol / liter",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "q10",
+      "class": "bsc",
+      "set": "A",
+      "subject": "physics",
+      "chapter": "Quantum Mechanics",
+      "question": "Planck constant value?",
+      "options": [
+        "6.626×10⁻³⁴ J·s",
+        "3×10⁸",
+        "9.8",
+        "1.6×10⁻¹⁹"
+      ],
+      "answer": "A",
+      "explanation": "h = 6.626×10⁻³⁴ J·s",
+      "createdAt": "2026-09-17T10:00:00Z"
+    }
+  ]
 }

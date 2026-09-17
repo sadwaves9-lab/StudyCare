@@ -1,38 +1,51 @@
 {
-  "version": 1,
-  "updatedAt": "2026-09-17T00:00:00Z",
+  "version": 2,
   "notes": [
     {
-      "id": "n_1789608010559364",
-      "subject": "studycare an <<EOF",
-      "chapter": "physics",
-      "title": "Motion",
-      "body": "Motion kya hai\nMotion = position me change. Speed = distance/time. Scalar quantity hai.\nEOF\n\nstudycare an <<EOF\nphysics\nForce\nForce kya hai\nForce = push or pull. Unit = Newton.\nEOF\n\nstudycare an <<EOF\nchemistry\nAtom\nAtom kya hai\nAtom kisi element ka sabse chhota kan hai.",
-      "createdAt": "2026-09-17T01:20:10Z"
+      "id": "n1",
+      "class": "5",
+      "set": "A",
+      "subject": "math",
+      "chapter": "Multiplication",
+      "title": "Multiplication Tables",
+      "keyTerms": [
+        "Product",
+        "Factor",
+        "Multiplicand"
+      ],
+      "body": "## Multiplication Basics\n**Multiplication** is repeated addition.\n\nExample: **3 × 4** = **12**\n- **Multiplicand**: 3\n- **Multiplier**: 4\n- **Product**: 12\n\n## Tables 1-10\n**2 × 1 = 2**\n**2 × 2 = 4**\n**2 × 3 = 6**\n\n__Tip__: Yaad karne ke liye roz practice karo.\n",
+      "createdAt": "2026-09-17T10:00:00Z"
     },
     {
-      "id": "n_1789608019744979",
+      "id": "n2",
+      "class": "10",
+      "set": "A",
+      "subject": "science",
+      "chapter": "Chemical Reactions",
+      "title": "Types of Chemical Reactions",
+      "keyTerms": [
+        "Combination",
+        "Decomposition",
+        "Displacement",
+        "Redox"
+      ],
+      "body": "## 5 Types of Reactions\n\n### 1. **Combination**\nA + B → AB\n\n### 2. **Decomposition**\nAB → A + B\n\n### 3. **Displacement**\nA + BC → AC + B\n\n### 4. **Double Displacement**\nAB + CD → AD + CB\n\n### 5. **Redox**\n__Oxidation-Reduction__ reactions\n\n**Important**: Hamesha balanced equation likho.\n",
+      "createdAt": "2026-09-17T10:00:00Z"
+    },
+    {
+      "id": "n3",
+      "class": "12",
+      "set": "A",
       "subject": "physics",
-      "chapter": "Motion",
-      "title": "Motion kya hai",
-      "body": "Motion = position me change. Speed = distance/time. Scalar quantity hai.",
-      "createdAt": "2026-09-17T01:20:19Z"
-    },
-    {
-      "id": "n_1789608019839205",
-      "subject": "physics",
-      "chapter": "Force",
-      "title": "Force kya hai",
-      "body": "Force = push or pull. Unit = Newton.",
-      "createdAt": "2026-09-17T01:20:19Z"
-    },
-    {
-      "id": "n_1789608019975925",
-      "subject": "chemistry",
-      "chapter": "Atom",
-      "title": "Atom kya hai",
-      "body": "Atom kisi element ka sabse chhota kan hai.",
-      "createdAt": "2026-09-17T01:20:19Z"
+      "chapter": "Electrostatics",
+      "title": "Coulomb Law",
+      "keyTerms": [
+        "Charge",
+        "Force",
+        "Permittivity"
+      ],
+      "body": "## Coulomb Law\n**F = k q₁ q₂ / r²**\n\n- **F** = Force (Newton)\n- **k** = 9 × 10⁹ N·m²/C²\n- **q₁, q₂** = Charges (Coulomb)\n- **r** = Distance (meter)\n\n### Properties\n__Force__ is __inversely proportional__ to **square of distance**.\n\n**Remember**: Same charge → repulsion, Opposite → attraction.\n",
+      "createdAt": "2026-09-17T10:00:00Z"
     }
   ]
 }
