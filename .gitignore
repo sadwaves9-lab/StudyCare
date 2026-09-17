@@ -1,5 +1,35 @@
+# Node
 node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Expo / Metro
 .expo/
 dist/
-*.log
+web-build/
+*.jks
+
+# Native
+/android/
+/ios/
+
+# Backups
+*.bak
+*.orig
+
+# System
 .DS_Store
+Thumbs.db
+*.log
+
+# Source code (OTA se jaati hai, git se nahi)
+src/
+App.js
+index.js
+babel.config.js
+metro.config.js
+app.json
+eas.json
+package.json
+package-lock.json
+scripts/
