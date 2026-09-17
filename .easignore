@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.git/
+.gitignore
+.easignore
+*.bak
+.DS_Store
+Thumbs.db
+content/
+scripts/
+eas.json.bak
