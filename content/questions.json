@@ -16,21 +16,6 @@
       "answer": "# Time: <aaj se 3-4 min aage ka time>",
       "explanation": "# Duration: 30",
       "createdAt": "2026-09-17T01:13:48Z"
-    },
-    {
-      "id": "q_1789607765323999",
-      "subject": "# Subject: Physics\r# Chapter: Motion\r# Question: Speed ka formula kya hai?\r# A: v = d/t\r# B: v = t/d\r# C: v = d*t\r# D: v = d+t\r# Answer: A\r# Explanation: Speed = distance / time\r\rstudycare an\r# Subject: Physics\r# Chapter: Motion\r# Title: Speed vs Velocity\r# Content: Speed scalar hai, velocity vector. Speed me direction nahi hoti.\r# Ctrl+D\r\rstudycare at\r# Name: Physics Weekly Test\r# Subject: Physics\r# Date: 2026-09-17\r# Time: <aaj se 3-4 min aage ka time>\r# Duration: 30\r\r# 2. Counts dekho\rstudycare ls\r\r# 3. Push\rstudycare p\r\r# 4. Start app\rnpx expo start -cphysics",
-      "chapter": "Motion",
-      "question": "what is motion",
-      "options": [
-        "speed",
-        "rest",
-        "work",
-        "all"
-      ],
-      "answer": "A",
-      "explanation": "speed means motion",
-      "createdAt": "2026-09-17T01:16:05Z"
     }
   ]
 }
