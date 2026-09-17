@@ -3904,6 +3904,366 @@
       "answer": "A",
       "explanation": "पूरक घटना: P(E') = 1 - P(E)",
       "createdAt": "2026-09-17T18:32:03Z"
+    },
+    {
+      "id": "q_1789685787002122",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "यूक्लिड विभाजन प्रमेयिका का सूत्र क्या है?",
+      "options": [
+        "a = bq + r",
+        "a = b + q + r",
+        "a = b × q × r",
+        "a = b - q - r"
+      ],
+      "answer": "A",
+      "explanation": "यूक्लिड विभाजन प्रमेयिका: a = bq + r, जहाँ 0 ≤ r < b",
+      "createdAt": "2026-09-17T22:56:27Z"
+    },
+    {
+      "id": "q_1789685787724132",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "√2 कैसी संख्या है?",
+      "options": [
+        "परिमेय",
+        "अपरिमेय",
+        "पूर्णांक",
+        "प्राकृत"
+      ],
+      "answer": "B",
+      "explanation": "√2 अपरिमेय संख्या है",
+      "createdAt": "2026-09-17T22:56:27Z"
+    },
+    {
+      "id": "q_1789685788529897",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "18 और 24 का HCF क्या है?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "C",
+      "explanation": "18 = 2×3², 24 = 2³×3. HCF = 2×3 = 6",
+      "createdAt": "2026-09-17T22:56:28Z"
+    },
+    {
+      "id": "q_1789685789534829",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "12 और 18 का LCM क्या है?",
+      "options": [
+        "24",
+        "36",
+        "48",
+        "54"
+      ],
+      "answer": "B",
+      "explanation": "12 = 2²×3, 18 = 2×3². LCM = 2²×3² = 36",
+      "createdAt": "2026-09-17T22:56:29Z"
+    },
+    {
+      "id": "q_1789685790454898",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "HCF × LCM = ?",
+      "options": [
+        "a + b",
+        "a - b",
+        "a × b",
+        "a ÷ b"
+      ],
+      "answer": "C",
+      "explanation": "दो संख्याओं का HCF × LCM उनके गुणनफल के बराबर होता है",
+      "createdAt": "2026-09-17T22:56:30Z"
+    },
+    {
+      "id": "q_1789685791218103",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "एक अभाज्य संख्या के कितने गुणनखंड होते हैं?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "असीम"
+      ],
+      "answer": "B",
+      "explanation": "अभाज्य संख्या के दो गुणनखंड: 1 और स्वयं",
+      "createdAt": "2026-09-17T22:56:31Z"
+    },
+    {
+      "id": "q_1789685791957553",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "निम्नलिखित में से कौन परिमेय संख्या है?",
+      "options": [
+        "√2",
+        "√3",
+        "π",
+        "22/7"
+      ],
+      "answer": "D",
+      "explanation": "22/7 परिमेय संख्या है",
+      "createdAt": "2026-09-17T22:56:31Z"
+    },
+    {
+      "id": "q_1789685792687037",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "6, 72, 120 का HCF क्या है?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "12"
+      ],
+      "answer": "C",
+      "explanation": "6 = 2×3, 72 = 2³×3², 120 = 2³×3×5. HCF = 6",
+      "createdAt": "2026-09-17T22:56:32Z"
+    },
+    {
+      "id": "q_1789685793433635",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "परिमेय संख्या का दशमलव प्रसार कब सांत होता है?",
+      "options": [
+        "हर 2 या 5 का गुणज",
+        "हर विषम",
+        "हर 3 का गुणज",
+        "हर 7 का गुणज"
+      ],
+      "answer": "A",
+      "explanation": "हर केवल 2ⁿ × 5ᵐ के रूप में हो तो सांत",
+      "createdAt": "2026-09-17T22:56:33Z"
+    },
+    {
+      "id": "q_1789685794193722",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "वास्तविक संख्याएँ",
+      "medium": "hindi",
+      "question": "अपरिमेय संख्या का दशमलव प्रसार कैसा होता है?",
+      "options": [
+        "सांत",
+        "असांत",
+        "असांत और अनावर्ती",
+        "सांत आवर्ती"
+      ],
+      "answer": "C",
+      "explanation": "अपरिमेय का दशमलव असांत और अनावर्ती होता है",
+      "createdAt": "2026-09-17T22:56:34Z"
+    },
+    {
+      "id": "q_1789685804030753",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "घात 2 वाले बहुपद को क्या कहते हैं?",
+      "options": [
+        "रैखिक बहुपद",
+        "द्विघात बहुपद",
+        "त्रिघात बहुपद",
+        "चतुर्घात बहुपद"
+      ],
+      "answer": "B",
+      "explanation": "घात 2 = द्विघात बहुपद",
+      "createdAt": "2026-09-17T22:56:44Z"
+    },
+    {
+      "id": "q_1789685804976341",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "p(x) = 2x² + 5x - 3 का शून्यक ज्ञात करने का सूत्र?",
+      "options": [
+        "(-b ± √(b²-4ac)) / 2a",
+        "(-b ± √(b²+4ac)) / 2a",
+        "(b ± √(b²-4ac)) / 2a",
+        "(-b ± √(b²-ac)) / 2a"
+      ],
+      "answer": "A",
+      "explanation": "द्विघात सूत्र: x = (-b ± √(b²-4ac)) / 2a",
+      "createdAt": "2026-09-17T22:56:44Z"
+    },
+    {
+      "id": "q_1789685806214856",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "यदि α और β बहुपद ax² + bx + c के शून्यक हैं, तो α + β = ?",
+      "options": [
+        "-b/a",
+        "b/a",
+        "c/a",
+        "-c/a"
+      ],
+      "answer": "A",
+      "explanation": "शून्यकों का योग = -b/a",
+      "createdAt": "2026-09-17T22:56:46Z"
+    },
+    {
+      "id": "q_1789685806972708",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "यदि α और β शून्यक हैं, तो αβ = ?",
+      "options": [
+        "-b/a",
+        "b/a",
+        "c/a",
+        "-a/c"
+      ],
+      "answer": "C",
+      "explanation": "शून्यकों का गुणनफल = c/a",
+      "createdAt": "2026-09-17T22:56:46Z"
+    },
+    {
+      "id": "q_1789685807734533",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "बहुपद x² - 5x + 6 के शून्यक क्या हैं?",
+      "options": [
+        "1, 6",
+        "2, 3",
+        "-2, -3",
+        "1, 5"
+      ],
+      "answer": "B",
+      "explanation": "x² - 5x + 6 = (x-2)(x-3), शून्यक = 2, 3",
+      "createdAt": "2026-09-17T22:56:47Z"
+    },
+    {
+      "id": "q_1789685808503279",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "बहुपद की घात क्या होती है?",
+      "options": [
+        "चर की संख्या",
+        "उच्चतम घातांक",
+        "गुणांक",
+        "अचर पद"
+      ],
+      "answer": "B",
+      "explanation": "बहुपद की घात = चर का उच्चतम घातांक",
+      "createdAt": "2026-09-17T22:56:48Z"
+    },
+    {
+      "id": "q_178968580926699",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "x³ + 2x² - 5x + 3 की घात क्या है?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "C",
+      "explanation": "उच्चतम घात = 3",
+      "createdAt": "2026-09-17T22:56:49Z"
+    },
+    {
+      "id": "q_1789685810023805",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "यदि p(x) = x² - 4 हो तो p(2) क्या होगा?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "-4"
+      ],
+      "answer": "A",
+      "explanation": "p(2) = 2² - 4 = 4 - 4 = 0",
+      "createdAt": "2026-09-17T22:56:50Z"
+    },
+    {
+      "id": "q_178968581080586",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "शेषफल प्रमेय के अनुसार, p(x) ÷ (x-a) का शेषफल क्या है?",
+      "options": [
+        "p(x)",
+        "p(a)",
+        "p(0)",
+        "a"
+      ],
+      "answer": "B",
+      "explanation": "शेषफल प्रमेय: शेषफल = p(a)",
+      "createdAt": "2026-09-17T22:56:50Z"
+    },
+    {
+      "id": "q_1789685811559293",
+      "class": "10",
+      "set": "1",
+      "subject": "math",
+      "chapter": "बहुपद",
+      "medium": "hindi",
+      "question": "यदि (x-1), p(x) = x² - 3x + 2 का गुणनखंड है, तो p(1) = ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-2"
+      ],
+      "answer": "A",
+      "explanation": "p(1) = 1 - 3 + 2 = 0",
+      "createdAt": "2026-09-17T22:56:51Z"
     }
   ]
 }
